@@ -1,0 +1,13 @@
+Package: Gradalgo
+Title:Gradient descent algorithm
+Version: 0.0.0.9000
+Authors@R: 
+    person("ETAH", "ETAH", , "etahetah105@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description:The goal is to develop a predictive model for house prices in Boston based 
+            on various factors, such as crime rate,Zoning and number of rooms.
+License:GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+
